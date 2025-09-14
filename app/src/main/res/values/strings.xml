@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Intent App</string>
+    <string name="app_name">Student Profile</string>
+
+    <string name="label_name">Nama</string>
+
+    <string name="btn_detail">Detail</string>
+    <string name="btn_edit">Ubah</string>
+    <string name="btn_save">Simpan</string>
+    <string name="label_nim">NIM</string>
+    <string name="label_hobby">Hobi</string>
+    <string name="label_quote">Quote Favorit</string>
 </resources>
